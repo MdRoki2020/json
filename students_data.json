@@ -1,0 +1,48 @@
+{
+  "students": [
+    {
+      "fname": "roki",
+      "middleName": null,
+      "age": 21,
+      "cgpa": 3.58,
+      "inresistered": true,
+      "language": [
+        "English",
+        "Bangle",
+        "Hindi"
+      ],
+      "friends": [
+        {
+          "name": "Roxi",
+          "age": "21"
+        },
+        {
+          "name": "yash",
+          "age": "25"
+        }
+      ]
+    },
+    {
+      "fname": "Alex",
+      "middleName": null,
+      "age": 21,
+      "cgpa": 3.58,
+      "inresistered": true,
+      "language": [
+        "English",
+        "Arabic",
+        "Hindi"
+      ],
+      "friends": [
+        {
+          "name": "Asure",
+          "age": "20"
+        },
+        {
+          "name": "tithee",
+          "age": "21"
+        }
+      ]
+    }
+  ]
+}
